@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <div className='black-nav'>
-        <div> 개발 Blog 11</div>
+        <div> 개발 Blog</div>
       </div>
       <img src={ logo } />
       <h4 style={ { color:'blue', fontSize : '30px' } }>{ dataVal }</h4>
